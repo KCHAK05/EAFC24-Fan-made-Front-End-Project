@@ -19,3 +19,5 @@ The screenshots of the project:
 3.
 
 ![Screenshot (10)](https://github.com/KCHAK05/EAFC24-Fan-made-Front-End-Project/assets/100472784/c691b715-eaf7-4da0-84ce-2a3ff9971691)
+
+The link of the website is this: https://easportsfc24.netlify.app/
